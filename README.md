@@ -28,5 +28,7 @@ g++ main.cpp -o StudentManagement
 
 ## Run the program
 
-./StudentManagement # on Linux/Mac
+```sh
+./StudentManagement   # on Linux/Mac
 StudentManagement.exe # on Windows
+```
